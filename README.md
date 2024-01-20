@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I am a passionate and results-driven Full-stack Software Engineer based in Chennai, India, with a proven track record of enhancing products through strategic upgrades and efficient system design. My expertise lies in Angular, Cloud Computing, Laravel (PHP), MySQL, and Agile Methodology. I am an AWS Certified Cloud Practitioner and adept at leveraging AWS services for scalable and secure cloud operations.
+I am a passionate and results-driven Full-stack Software Engineer based in Chennai, India, with a proven track record of enhancing products through strategic upgrades and efficient system design. My expertise lies in Angular, Cloud Computing, Laravel (PHP),Java, MySQL,MongoDB and Agile Methodology. I am an AWS Certified Cloud Practitioner and adept at leveraging AWS services for scalable and secure cloud operations.
 
 * 🌍  I'm based in Chennai
 * ✉️  You can contact me at [rkj180220@gmail.com](mailto:rkj180220@gmail.com)
