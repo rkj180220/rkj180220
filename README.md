@@ -7,7 +7,7 @@ Software Engineer
 I am a passionate and results-driven Full-stack Software Engineer based in Chennai, India, with a proven track record of enhancing products through strategic upgrades and efficient system design. My expertise lies in Angular, Cloud Computing, Laravel (PHP), Java, MySQL,MongoDB and Agile Methodology. I am an AWS Certified Cloud Practitioner and adept at leveraging AWS services for scalable and secure cloud operations.
 
 * 🌍  I'm based in Chennai
-* ✉️  You can contact me at [rkj180220@gmail.com](mailto:rkj180220@gmail.com)
+* ✉️  You can contact me at [ramkumar.jayakumar@outlook.com](mailto:ramkumar.jayakumar@outlook.com)
 * 🚀  I'm currently working on [My Digital](http://mydigitalaccounts.com)
 * ⚡  I also write technical blogs on [Dev.to](https://dev.to/rkj180220)
 * 🧠  I'm learning AWS, Python, MangoDB and System Design.
