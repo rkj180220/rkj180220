@@ -8,9 +8,9 @@ I am a passionate and results-driven Full-stack Software Engineer based in Chenn
 
 * 🌍  I'm based in Chennai
 * ✉️  You can contact me at [ramkumar.jayakumar@outlook.com](mailto:ramkumar.jayakumar@outlook.com)
-* 🚀  I'm currently working on [My Digital](http://mydigitalaccounts.com)
+* 🚀  I'm currently working on [Presidio](https://www.presidio.com/)
 * ⚡  I also write technical blogs on [Dev.to](https://dev.to/rkj180220)
-* 🧠  I'm learning AWS, Python, MangoDB and System Design.
+* 🧠  I'm learning AWS, GraphQL, Python, and System Design.
 * 🤝  I'm open to collaborating on Cloud Computing and Software Development
 * ⚡  I am also a musician. I play both the Piano and Guitar.
 
