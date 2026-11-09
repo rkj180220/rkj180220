@@ -1,35 +1,38 @@
-<p align="center">
-  <img src="./assets/profile-banner.svg" alt="Ramkumar Jayakumar, software engineer working across full-stack development, cloud, and applied AI" width="100%">
-</p>
+![Engineering field notes by Ramkumar Jayakumar](./assets/profile-banner.svg)
 
-<p align="center">
-  <a href="https://dev.to/rkj180220">DEV Community</a> ·
-  <a href="https://www.linkedin.com/in/ramkumarjayakumar/">LinkedIn</a>
-</p>
+I’m a senior software engineer at Presidio. My work spans full-stack development, cloud architecture, and applied AI. I share what I learn through demos, technical writing, and talks.
 
-I’m a senior software engineer at Presidio, based in Chennai. I build across the stack, from the interfaces people use to the APIs and cloud systems that power them. I also build AI agents and write about the engineering decisions that show up once software is running in production.
+[DEV Community](https://dev.to/rkj180220) · [LinkedIn](https://www.linkedin.com/in/ramkumarjayakumar/)
 
-## Selected projects
+## 01 / Featured build
 
-| Project | What I built |
-| --- | --- |
-| [Cloud Orchestrator](https://github.com/rkj180220/Dissertation) | My M.Tech dissertation project. An agentic decision support system for comparing cloud resources and automating procurement workflows. |
-| [GraphQL real-time updates demo](https://github.com/rkj180220/graphql-real-time-updates-demo) | A working demo for exploring real-time updates with GraphQL. |
-| [Bedrock web crawler](https://github.com/rkj180220/bedrock-web-crawler) | A React app backed by AWS Bedrock and Lambda that answers questions about the pages it crawls. |
-| [RK Music Notes](https://github.com/rkj180220/rk-music-notes) | A personal app for organising chord sheets and band arrangements and exporting them as portable HTML. |
+### The Expensive Greeting
 
-## Writing and talks
+A chatbot gives the same answer after a release. Why does it cost more? For Presidio India Exchange 2026, Balaji Saravanan and I turned that question into a detective game. Follow the request trace, test a fix, and see whether it passes a release gate for cost and answer quality.
 
-- [The Answer Looked Fine. The AI Bill Didn’t.](https://dev.to/rkj180220/the-answer-looked-fine-the-ai-bill-didnt-1d47) — A walkthrough of the detective game Balaji Saravanan and I presented at Presidio India Exchange 2026, plus a guide to testing AI cost and quality before release.
-- [Getting the actual client IP behind an AWS load balancer](https://dev.to/rkj180220/getting-the-actual-client-ip-when-using-application-load-balancer-alb-in-aws-lambda-4fcn) — How to recover the client IP when an Application Load Balancer invokes Lambda.
-- [Persistent data grids in Angular](https://dev.to/rkj180220/persistent-data-grids-in-angular-a-comprehensive-guide-4jbf) — A practical guide to preserving grid state.
+[![AI Cost Engineering Lab investigation map with five locations to explore](./assets/expensive-greeting.jpg)](https://dev.to/rkj180220/the-answer-looked-fine-the-ai-bill-didnt-1d47)
 
-## Background
+[Read the case and see how the gate works →](https://dev.to/rkj180220/the-answer-looked-fine-the-ai-bill-didnt-1d47)
 
-**Tools I reach for:** TypeScript, Angular, React, Python, GraphQL, and AWS.
+## 02 / Project index
+
+- **[Cloud Orchestrator](https://github.com/rkj180220/Dissertation)** · My M.Tech dissertation. An agentic decision support system for comparing cloud resources and automating procurement workflows.
+- **[GraphQL real-time updates](https://github.com/rkj180220/graphql-real-time-updates-demo)** · A demo for exploring how GraphQL apps receive live updates.
+- **[Bedrock web crawler](https://github.com/rkj180220/bedrock-web-crawler)** · A React app with Bedrock and Lambda that answers questions about the pages it crawls.
+- **[RK Music Notes](https://github.com/rkj180220/rk-music-notes)** · I play piano and guitar, so I built a way to organise chord sheets and band arrangements and export them as portable HTML.
+
+## 03 / From my notebook
+
+- [Getting the actual client IP behind an AWS load balancer](https://dev.to/rkj180220/getting-the-actual-client-ip-when-using-application-load-balancer-alb-in-aws-lambda-4fcn)
+- [Persistent data grids in Angular](https://dev.to/rkj180220/persistent-data-grids-in-angular-a-comprehensive-guide-4jbf)
+
+<details>
+<summary>Tools, education, and collaboration</summary>
+
+**Tools:** TypeScript, Angular, React, Python, GraphQL, and AWS.
 
 **Education:** M.Tech in Cloud Computing, BITS Pilani (WILP) · B.Tech in Information and Communication Technology, SASTRA University.
 
-**Outside work:** I play piano and guitar.
+I’m open to collaborations and new projects across software engineering, cloud, and AI. [Say hello on LinkedIn](https://www.linkedin.com/in/ramkumarjayakumar/).
 
-I’m open to collaborating on software, cloud, and AI projects. [Say hello on LinkedIn](https://www.linkedin.com/in/ramkumarjayakumar/).
+</details>

@@ -1,13 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 250" role="img" aria-labelledby="title">
-  <title id="title">Ramkumar Jayakumar — Full-stack, cloud, and applied AI</title>
-  <rect width="1000" height="250" rx="20" fill="#0d1829"/>
-  <path d="M610 0v250m70-250v250m70-250v250m70-250v250m70-250v250m70-250v250M575 55h425M575 125h425M575 195h425" stroke="#243449"/>
-  <path d="M610 195h70v-70h70v-70h70m-70 70h140v70h70" fill="none" stroke="#5eead4" stroke-width="3"/>
-  <circle cx="610" cy="195" r="7" fill="#5eead4"/>
-  <circle cx="750" cy="125" r="8" fill="#fbbf77"/>
-  <circle cx="820" cy="55" r="7" fill="#5eead4"/>
-  <circle cx="960" cy="195" r="7" fill="#5eead4"/>
-  <text x="50" y="67" fill="#5eead4" font-family="monospace" font-size="21" letter-spacing="3">SOFTWARE ENGINEER</text>
-  <text x="48" y="132" fill="#f5f8ff" font-family="system-ui, sans-serif" font-size="51" font-weight="700">Ramkumar Jayakumar</text>
-  <text x="50" y="185" fill="#c4d4e8" font-family="system-ui, sans-serif" font-size="25">Full-stack · Cloud · Applied AI</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 330" role="img" aria-labelledby="title">
+  <title id="title">Engineering field notes — Ramkumar Jayakumar</title>
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0v24" fill="none" stroke="#87a9a0" stroke-opacity=".12"/>
+    </pattern>
+    <clipPath id="bounds"><rect width="1000" height="330" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#bounds)">
+    <path fill="#102422" d="M0 0h1000v330H0z"/>
+    <path fill="url(#grid)" d="M0 0h1000v330H0z"/>
+    <g fill="none" stroke="#75c5b1" stroke-opacity=".42">
+      <circle cx="824" cy="165" r="48"/><circle cx="824" cy="165" r="88"/>
+      <circle cx="824" cy="165" r="128"/><circle cx="824" cy="165" r="168"/>
+      <path d="M824 0v330m-168-165h336"/>
+      <path d="m708 233 65-110 51 42 82-104" stroke="#ffb373" stroke-width="2" stroke-dasharray="5 6" stroke-opacity=".9"/>
+    </g>
+    <g fill="#ffb373">
+      <circle cx="708" cy="233" r="5"/><circle cx="773" cy="123" r="5"/>
+      <circle cx="824" cy="165" r="8"/><circle cx="906" cy="61" r="5"/>
+    </g>
+    <g font-family="monospace" font-size="21" letter-spacing="3" fill="#a3e6d1">
+      <text x="50" y="58">ENGINEERING FIELD NOTES</text>
+      <text x="50" y="282" font-size="17">CHENNAI, INDIA</text>
+      <text x="847" y="282" font-size="17">13.08° N</text>
+    </g>
+    <text x="46" y="134" fill="#fff3df" font-family="Georgia, serif" font-size="63" font-weight="bold">Ramkumar</text>
+    <text x="46" y="206" fill="#fff3df" font-family="Georgia, serif" font-size="63" font-weight="bold">Jayakumar</text>
+    <path d="M50 245h900" stroke="#a3e6d1" stroke-opacity=".35"/>
+  </g>
 </svg>
