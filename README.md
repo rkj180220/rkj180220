@@ -1,27 +1,35 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ramkumar J
-==================================================================================================================================
-
-Software Engineer
------------------
-
-I am a passionate and results-driven Full-stack Software Engineer based in Chennai, India, with a proven track record of enhancing products through strategic upgrades and efficient system design. My expertise lies in Angular, Cloud Computing - AWS, GraphQL, Laravel (PHP), Java, TypeSript, MySQL, MongoDB and Agile Methodology. I am an AWS Certified Cloud Practitioner and adept at leveraging AWS services for scalable and secure cloud operations.
-
-* 🌍  I'm based in Chennai
-* ✉️  You can contact me at [ramkumar.jayakumar@outlook.com](mailto:ramkumar.jayakumar@outlook.com)
-* 🚀  I'm currently working on [Presidio](https://www.presidio.com/)
-* ⚡  I also write technical blogs on [Dev.to](https://dev.to/rkj180220)
-* 🧠  I'm learning AWS, GraphQL, Python, and System Design.
-* 🤝  I'm open to collaborating on Cloud Computing and Software Development
-* ⚡  I am also a musician. I play both the Piano and Guitar.
-
-### Skills
-
-
-<p align="left">
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Ramkumar Jayakumar, software engineer working across full-stack development, cloud, and applied AI" width="100%">
 </p>
 
+<p align="center">
+  <a href="https://dev.to/rkj180220">DEV Community</a> ·
+  <a href="https://www.linkedin.com/in/ramkumarjayakumar/">LinkedIn</a>
+</p>
 
-### Socials
+I’m a senior software engineer at Presidio, based in Chennai. I build across the stack, from the interfaces people use to the APIs and cloud systems that power them. I also build AI agents and write about the engineering decisions that show up once software is running in production.
 
-<p align="left"> <a href="https://www.github.com/rkj180220" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/ramkumarjayakumar" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ramkumarjayakumar" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+## Selected projects
+
+| Project | What I built |
+| --- | --- |
+| [Cloud Orchestrator](https://github.com/rkj180220/Dissertation) | My M.Tech dissertation project. An agentic decision support system for comparing cloud resources and automating procurement workflows. |
+| [GraphQL real-time updates demo](https://github.com/rkj180220/graphql-real-time-updates-demo) | A working demo for exploring real-time updates with GraphQL. |
+| [Bedrock web crawler](https://github.com/rkj180220/bedrock-web-crawler) | A React app backed by AWS Bedrock and Lambda that answers questions about the pages it crawls. |
+| [RK Music Notes](https://github.com/rkj180220/rk-music-notes) | A personal app for organising chord sheets and band arrangements and exporting them as portable HTML. |
+
+## Writing and talks
+
+- [The Answer Looked Fine. The AI Bill Didn’t.](https://dev.to/rkj180220/the-answer-looked-fine-the-ai-bill-didnt-1d47) — A walkthrough of the detective game Balaji Saravanan and I presented at Presidio India Exchange 2026, plus a guide to testing AI cost and quality before release.
+- [Getting the actual client IP behind an AWS load balancer](https://dev.to/rkj180220/getting-the-actual-client-ip-when-using-application-load-balancer-alb-in-aws-lambda-4fcn) — How to recover the client IP when an Application Load Balancer invokes Lambda.
+- [Persistent data grids in Angular](https://dev.to/rkj180220/persistent-data-grids-in-angular-a-comprehensive-guide-4jbf) — A practical guide to preserving grid state.
+
+## Background
+
+**Tools I reach for:** TypeScript, Angular, React, Python, GraphQL, and AWS.
+
+**Education:** M.Tech in Cloud Computing, BITS Pilani (WILP) · B.Tech in Information and Communication Technology, SASTRA University.
+
+**Outside work:** I play piano and guitar.
+
+I’m open to collaborating on software, cloud, and AI projects. [Say hello on LinkedIn](https://www.linkedin.com/in/ramkumarjayakumar/).

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 250" role="img" aria-labelledby="title">
+  <title id="title">Ramkumar Jayakumar — Full-stack, cloud, and applied AI</title>
+  <rect width="1000" height="250" rx="20" fill="#0d1829"/>
+  <path d="M610 0v250m70-250v250m70-250v250m70-250v250m70-250v250m70-250v250M575 55h425M575 125h425M575 195h425" stroke="#243449"/>
+  <path d="M610 195h70v-70h70v-70h70m-70 70h140v70h70" fill="none" stroke="#5eead4" stroke-width="3"/>
+  <circle cx="610" cy="195" r="7" fill="#5eead4"/>
+  <circle cx="750" cy="125" r="8" fill="#fbbf77"/>
+  <circle cx="820" cy="55" r="7" fill="#5eead4"/>
+  <circle cx="960" cy="195" r="7" fill="#5eead4"/>
+  <text x="50" y="67" fill="#5eead4" font-family="monospace" font-size="21" letter-spacing="3">SOFTWARE ENGINEER</text>
+  <text x="48" y="132" fill="#f5f8ff" font-family="system-ui, sans-serif" font-size="51" font-weight="700">Ramkumar Jayakumar</text>
+  <text x="50" y="185" fill="#c4d4e8" font-family="system-ui, sans-serif" font-size="25">Full-stack · Cloud · Applied AI</text>
+</svg>
